@@ -1,0 +1,169 @@
+{
+    "result": 0,
+    "return_object": {
+        "nodes": [
+            {
+                "id": 2,
+                "name": "피해자",
+                "level": 1,
+                "weight": 37.77
+            },
+            {
+                "id": 3,
+                "name": "전화금융사기",
+                "level": 3,
+                "weight": 36.02
+            },
+            {
+                "id": 4,
+                "name": "중국",
+                "level": 3,
+                "weight": 28.5
+            },
+            {
+                "id": 5,
+                "name": "대포통장",
+                "level": 3,
+                "weight": 18.76
+            },
+            {
+                "id": 6,
+                "name": "범죄단체",
+                "level": 3,
+                "weight": 11.75
+            },
+            {
+                "id": 7,
+                "name": "개인정보",
+                "level": 1,
+                "weight": 22.34
+            },
+            {
+                "id": 9,
+                "name": "수사기관",
+                "level": 3,
+                "weight": 10.5
+            },
+            {
+                "id": 10,
+                "name": "휴대전화",
+                "level": 3,
+                "weight": 8.73
+            },
+            {
+                "id": 12,
+                "name": "경찰청",
+                "level": 1,
+                "weight": 18.56
+            },
+            {
+                "id": 13,
+                "name": "금융감독원",
+                "level": 3,
+                "weight": 15.69
+            },
+            {
+                "id": 14,
+                "name": "피해액",
+                "level": 3,
+                "weight": 14.86
+            },
+            {
+                "id": 15,
+                "name": "금융기관",
+                "level": 3,
+                "weight": 9.23
+            },
+            {
+                "id": 16,
+                "name": "사기범",
+                "level": 3,
+                "weight": 8.21
+            },
+            {
+                "id": 17,
+                "name": "불구속 입건",
+                "level": 2,
+                "weight": 13.94
+            },
+            {
+                "id": 18,
+                "name": "금융정보",
+                "level": 2,
+                "weight": 11.1
+            },
+            {
+                "id": 19,
+                "name": "파밍",
+                "level": 2,
+                "weight": 10.04
+            },
+            {
+                "id": 21,
+                "name": "금융당국",
+                "level": 3,
+                "weight": 6.61
+            },
+            {
+                "id": 22,
+                "name": "김씨",
+                "level": 3,
+                "weight": 8.63
+            },
+            {
+                "id": 23,
+                "name": "스미싱",
+                "level": 3,
+                "weight": 8.43
+            },
+            {
+                "id": 24,
+                "name": "메르스",
+                "level": 3,
+                "weight": 7.06
+            },
+            {
+                "id": 25,
+                "name": "경찰 관계자",
+                "level": 3,
+                "weight": 8.0
+            },
+            {
+                "id": 26,
+                "name": "스마트폰",
+                "level": 3,
+                "weight": 7.9
+            },
+            {
+                "id": 27,
+                "name": "이씨",
+                "level": 3,
+                "weight": 7.2
+            },
+            {
+                "id": 28,
+                "name": "악성코드",
+                "level": 3,
+                "weight": 7.06
+            },
+            {
+                "id": 29,
+                "name": "금감원",
+                "level": 3,
+                "weight": 6.55
+            },
+            {
+                "id": 30,
+                "name": "지능화",
+                "level": 3,
+                "weight": 6.55
+            },
+            {
+                "id": 31,
+                "name": "계좌번호",
+                "level": 3,
+                "weight": 6.21
+            }
+        ]
+    }
+}
