@@ -1,0 +1,19 @@
+{
+    "result": 0,
+    "return_object": {
+        "nodes": [
+            {
+                "id": 2,
+                "level": 3,
+                "name": "국론분열",
+                "weight": 0.8
+            },
+            {
+                "id": 3,
+                "level": 3,
+                "name": "미래부",
+                "weight": 0.67
+            }
+        ]
+    }
+}

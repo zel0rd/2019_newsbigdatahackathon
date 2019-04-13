@@ -1,7 +1,7 @@
 {
     "result": 0,
     "return_object": {
-        "total_hits": 0,
-        "documents": []
+        "documents": [],
+        "total_hits": 0
     }
 }
